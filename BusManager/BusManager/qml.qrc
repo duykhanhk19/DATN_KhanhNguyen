@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>RouteInfo.qml</file>
+        <file>Images/backButton.png</file>
+        <file>BusTimeline.qml</file>
+        <file>Images/moveNextIcon.svg</file>
+        <file>Images/movePreviousIcon.svg</file>
+        <file>StationInfo.qml</file>
+        <file>StationRouteItem.qml</file>
+        <file>Images/busIcon.svg</file>
+        <file>StationVehicleItem.qml</file>
+        <file>Images/clockIcon.svg</file>
+        <file>Images/distanceIcon.svg</file>
+        <file>Images/speedIcon.svg</file>
+        <file>ListRoutes.qml</file>
+        <file>Images/mapIcon.png</file>
+        <file>Images/searchIcon.png</file>
+        <file>Images/busIcon2.svg</file>
+        <file>ListRouteItem.qml</file>
+        <file>Images/markerMapIcon.png</file>
+        <file>MapView.qml</file>
+        <file>Images/peopleIcon.png</file>
+        <file>Images/temperatureIcon.png</file>
+        <file>StationVehicleItem2.qml</file>
+        <file>ChooseBusRoute.qml</file>
+    </qresource>
+</RCC>
